@@ -10,7 +10,7 @@
 
 # Install
 - `docker pull mcr.microsoft.com/mssql/server:2022-latest` : pull docker image
-- `docker create volume vmssql` : create a volume
+- `docker volume create vmssql` : create a volume
 
 ## Make MSSQL Container
 Information:
