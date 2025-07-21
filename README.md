@@ -8,6 +8,9 @@
 
 ## Docker Compose
 
+- `docker compose up -d` : run a docker-compose file
+
+
 ## List docker iamge
 
 - SQL Server
